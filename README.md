@@ -11,7 +11,7 @@ Edit contents of the [./fuckputin.sh](/fuckputin.sh) file
 
 - Install Docker - [Instructions](https://docs.docker.com/get-docker/)
 - Optionally update [the targets](#targets)
-- `docker-compose up`
+- `docker build -t fuckputin . && docker run fuckputin`
 
 ### Local
 

@@ -1,7 +1,0 @@
-services:
-  fuckputin:
-    build: .
-    image: fuckputin
-    # M1 Mac specific
-    platform: linux/x86_64 
-    # command: tail -f /dev/null
