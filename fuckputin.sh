@@ -2,6 +2,7 @@
 
 # Best update targets from https://t.me/itarmyofukraine2022
 fuck_these=(
+    "https://api.developer.sber.ru/product/SberbankID"
     "https://mail.rkn.gov.ru/" 
     "https://cloud.rkn.gov.ru" 
     "https://mvd.gov.ru" 
