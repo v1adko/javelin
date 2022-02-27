@@ -26,12 +26,14 @@
 - Перейдіть до папки з кодом - `cd ./fuckputin`
 - (опціонально) Оновіть [цілі](#цілі)
 
-#### Запуск в Docker контейнері
+#### Запуск в Docker контейнері (
+   
+*NOTE*: це може зайняты значно довше, тому якщо ви більш технічно досвідчені спробуйте [встановити бінарники прямо на вашу хост систему](#локальний-запуск)
 
 - Встановіть Docker - [Інструкції](https://docs.docker.com/get-docker/)
-- `docker-compose up --build`  
+- `docker-compose up --build` (на деяких системах compose не йде разом з docker)  
    **або**
-- `docker build -t fuckputin`
+- `docker build -t fuckputin .`
 - `docker run fuckputin`
 
 #### Локальний запуск
