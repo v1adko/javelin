@@ -65,7 +65,7 @@ fuck_these=(
     "https://www.gosuslugi.ru/" 
     "https://www.gov.spb.ru" 
     "http://kremlin.ru/" 
-    "https://mchs.gov.ru'
+    "https://mchs.gov.ru"
 )
 
 for n in {1..100}; do 

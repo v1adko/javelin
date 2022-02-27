@@ -16,7 +16,7 @@ Edit contents of the [./fuckputin.sh](/fuckputin.sh) file
 ### Local
 
 - Install Go - [Instructions](https://go.dev/doc/install)
-- Install bombardier - `go get -u github.com/codesenberg/bombardier`
+- Install bombardier - `go install github.com/codesenberg/bombardier@latest`
 - Clone the repo - `git clone https://github.com/v1adko/fuckputin.git`
 - Change working directory - `cd ./fuckputin`
 - Optionally update [the targets](#targets)
