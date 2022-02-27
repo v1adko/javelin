@@ -11,16 +11,19 @@ Edit contents of the [./fuckputin.sh](/fuckputin.sh) file
 
 - Install Docker - [Instructions](https://docs.docker.com/get-docker/)
 - Optionally update [the targets](#targets)
-- `docker build -t fuckputin . && docker run fuckputin`
+- `docker-compose up --build`  
+   **or**
+- `docker build -t fuckputin`
+- `docker run fuckputin`
 
 ### Local
 
 - Install Go - [Instructions](https://go.dev/doc/install)
-- Install bombardier - `go install github.com/codesenberg/bombardier@latest`
+- Install bombardier [by downloading a binary](https://github.com/codesenberg/bombardier/releases)
 - Clone the repo - `git clone https://github.com/v1adko/fuckputin.git`
 - Change working directory - `cd ./fuckputin`
 - Optionally update [the targets](#targets)
-- Run `./fuckputin.sh`
+- Run `./fuckputin-local.sh`
 
 ### Run
 
