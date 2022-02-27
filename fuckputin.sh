@@ -67,6 +67,7 @@ fucklist=(
 
 # Latest coordinated list, comment or remove these lines for long-running task
 fucklist=(
+    "mininform.gov.by"
     "rec.gov.by"
     "belta.by"
     "sputnik.by"
