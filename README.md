@@ -2,6 +2,8 @@
 
 🇺🇦 A DDoS helper tool to bring down enemy websites - based on [bombardier](https://github.com/codesenberg/bombardier) 🇺🇦
 
+### [Інструкція українською](./README_UA.md)
+
 ### Targets
 
 Best update targets from [this telegram channel](https://t.me/itarmyofukraine2022)  
