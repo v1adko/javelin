@@ -1,6 +1,6 @@
 # fuckputin
 
-🇺🇦 A DDoS tool to bring down enemy websites 🇺🇦
+🇺🇦 A DDoS helper tool to bring down enemy websites - based on [bombardier](https://github.com/codesenberg/bombardier) 🇺🇦
 
 ### Targets
 

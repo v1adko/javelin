@@ -1,6 +1,6 @@
 FROM golang:latest
 
-RUN go get -u github.com/codesenberg/bombardier
+RUN go install github.com/codesenberg/bombardier@latest
 
 COPY ./fuckputin.sh .
 
