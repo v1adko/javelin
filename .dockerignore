@@ -1,0 +1,8 @@
+wip
+*.md
+bombardier
+fuckputin-local.sh
+Dockerfile
+docker-compose.yml
+.gitignore
+binaries
