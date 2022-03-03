@@ -3,6 +3,7 @@
 🇺🇦 A DDoS helper tool to bring down enemy websites - based on [bombardier](https://github.com/codesenberg/bombardier) 🇺🇦
 
 ### [Інструкція українською](./README_UA.md)
+### [Инструкция на русском](./README_RU.md)
 
 ### Simplified instruction - manual execution
 - Install Docker - [Instructions](https://docs.docker.com/get-docker/)
@@ -21,9 +22,9 @@ Automatic script performs the same command and loops through a list of hosts, so
 ### Targets
 
 Best update targets from [this telegram channel](https://t.me/itarmyofukraine2022)  
-Edit contents of the [./fuckputin.sh](/fuckputin.sh) file
+Edit contents of the [./fucklist.sh](/fucklist.sh) file
 
-### Docker
+### Run in Docker
 
 *Note*: this could take quite some time, if you're tech-savvy enough,  
 try [installing binaries manually](#local) directly on your host system,  
@@ -44,5 +45,5 @@ it should be faster
 
 ### Run
 
-Now leave the process running for as much as you can or until you need to update the targets  
+Now leave the process running for as much as you can
 Thank you for fighting on our side! 💪 🇺🇦
