@@ -1,5 +1,12 @@
 # Best update targets from https://t.me/itarmyofukraine2022
 fucklist=(
+  # NSPK
+  "185.170.2.232"
+  "185.170.2.231"
+  "185.170.2.232"
+  "185.170.2.231"
+  "185.170.2.232"
+  "185.170.2.231"
   # Sberbank
   "scr.online.sberbank.ru/api/fl/idgib-w-3ds"
   "3dsec.sberbank.ru/mportal3/auth/login"
