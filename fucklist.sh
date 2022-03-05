@@ -1,10 +1,20 @@
 # Best update targets from https://t.me/itarmyofukraine2022
 fucklist=(
+  # Oil and gas
+  "Transneft.ru"
+  "Tektorg.ru"
+  "Rosneft.com"
+  "Lukoil.com"
+  "Gazprom.ru"
+  "B2b.sibur.ru"
+  "Onlinecontract.ru"
+  “Eurochemgroup.com"
+  "Uralchem.com"
+  "Tatneft.ru"
+  "Nlmk.com"
+  "Acron.ru"
+  "aaa-srt-apps.lukoil.com"
   # NSPK
-  "185.170.2.232"
-  "185.170.2.231"
-  "185.170.2.232"
-  "185.170.2.231"
   "185.170.2.232"
   "185.170.2.231"
   # Sberbank
