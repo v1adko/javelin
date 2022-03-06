@@ -1,5 +1,10 @@
 # Best update targets from https://t.me/itarmyofukraine2022
 fucklist=(
+  # Banking 
+  "my.bank-hlynov.ru"
+  "link.centrinvest.ru"
+  "chbrr.crimea.com"
+  "enter.unicredit.ru"
   # Oil and gas
   "Transneft.ru"
   "Tektorg.ru"
