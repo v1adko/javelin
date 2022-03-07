@@ -1,5 +1,18 @@
 # Best update targets from https://t.me/itarmyofukraine2022
 fucklist=(
+  # Regions
+  "www.astrobl.ru"
+  "www.volgograd.ru"
+  "www.admoblkaluga.ru"
+  "apparat.lenobl.ru"
+  "mosreg.ru"
+  "orel-region.ru"
+  "midural.ru"
+  "www.tula.ru"
+  "ulgov.ru"
+  "cheladmin.ru"
+  "krd.ru"
+  "www.stavregion.ru"
   # Banking 
   "my.bank-hlynov.ru"
   "link.centrinvest.ru"
