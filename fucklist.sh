@@ -45,7 +45,7 @@ fucklist=(
   "Gazprom.ru"
   "B2b.sibur.ru"
   "Onlinecontract.ru"
-  “Eurochemgroup.com"
+  "Eurochemgroup.com"
   "Uralchem.com"
   "Tatneft.ru"
   "Nlmk.com"
@@ -143,7 +143,7 @@ fucklist=(
   "vsoloviev.ru"
   "vtb.ru"
   "zakupki.gov.ru"
-   # Belarussian websites
+  # Belarussian websites
   "rec.gov.by"
   "belta.by"
   "sputnik.by"
