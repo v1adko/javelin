@@ -1,5 +1,8 @@
 # Best update targets from https://t.me/itarmyofukraine2022
 fucklist=(
+  # Freelance
+  "advego.com"
+  "kwork.ru"
   # Fake news
   "tvzvezda.ru"
   "sputniknews.com"
