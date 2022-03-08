@@ -1,5 +1,8 @@
 # Best update targets from https://t.me/itarmyofukraine2022
 fucklist=(
+  # Fake news
+  "tvzvezda.ru"
+  "sputniknews.com"
   # Regions
   "www.astrobl.ru"
   "www.volgograd.ru"
