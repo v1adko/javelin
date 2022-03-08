@@ -1,5 +1,18 @@
 # Best update targets from https://t.me/itarmyofukraine2022
 fucklist=(
+  # Logistics and investment
+  "sberfn.ru"
+  "sber-am.ru"
+  "www.vtbcapital-pr.ru"
+  "region-am.ru"
+  "www.ingosinvest.ru"
+  "goszakaz.ru"
+  "star-pro.ru"
+  "ati.su"
+  "region.ru"
+  "monopoly.ru"
+  "ul.su"
+  "gruzovozkin.pro"
   # Freelance
   "advego.com"
   "kwork.ru"
