@@ -1,5 +1,12 @@
 # Best update targets from https://t.me/itarmyofukraine2022
 fucklist=(
+  # Public
+  "www.russianhighways.ru"
+  "www.nornickel.com"
+  "www.surgutneftegas.ru"
+  "www.evraz.com"
+  "www.nlmk.com"
+  "www.metalloinvest.com"
   # NSPK 2
   "www.nspk.ru"
   "acs.vendorcert.mirconnect.ru"
