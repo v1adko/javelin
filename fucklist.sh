@@ -1,5 +1,17 @@
 # Best update targets from https://t.me/itarmyofukraine2022
 fucklist=(
+  # NSPK 2
+  "www.nspk.ru"
+  "acs.vendorcert.mirconnect.ru"
+  "195.208.109.58"
+  "ds1.mirconnect.ru"
+  "185.170.2.7"
+  "ds2.mirconnect.ru"
+  "185.170.3.7"
+  "uat-ds1.mirconnect.ru"
+  "185.170.2.9"
+  "uat-ds2.mirconnect.ru"
+  "185.170.3.9"
   # OK
   "ok.ru"
   "5.61.23.11"
