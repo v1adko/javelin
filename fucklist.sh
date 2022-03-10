@@ -1,5 +1,10 @@
 # Best update targets from https://t.me/itarmyofukraine2022
 fucklist=(
+  # OK
+  "ok.ru"
+  "5.61.23.11"
+  "217.20.155.13"
+  "217.20.147.1"
   # Logistics and investment
   "sberfn.ru"
   "sber-am.ru"
