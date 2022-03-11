@@ -1,5 +1,16 @@
 # Best update targets from https://t.me/itarmyofukraine2022
 fucklist=(
+  # Digital signatures
+  "esia.gosuslugi.ru"
+  "213.59.254.8"
+  "iecp.ru/ep/ep-verification"
+  "185.71.67.237"
+  "e-trust.gosuslugi.ru"
+  "185.194.34.142"
+  "gu.spb.ru"
+  "212.164.138.169"
+  "uc-osnovanie.ru"
+  "185.71.67.237"
   # Rostech
   "rostec.ru"
   "178.248.232.115"
