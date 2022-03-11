@@ -1,5 +1,23 @@
 # Best update targets from https://t.me/itarmyofukraine2022
 fucklist=(
+  # Rostech
+  "rostec.ru"
+  "178.248.232.115"
+  "scloud.rostec.ru/login"
+  "188.128.56.24"
+  "vcs.rostec.ru"
+  "188.128.102.66"
+  "lk.rostec.ru/Account/LogIn?ReturnUrl=%2F"
+  "81.1.223.37"
+  "ias.rostec.ru"
+  "88.198.25.38"
+  "smi.rostec.ru/user"
+  "89.111.133.98"
+  "v1.rostec.ru"
+  "v2.rostec.ru"
+  "185.22.61.90"
+  "vks3.rostec.ru"
+  "188.128.102.68"
   # Public
   "www.russianhighways.ru"
   "www.nornickel.com"
