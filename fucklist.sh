@@ -1,5 +1,18 @@
 # Best update targets from https://t.me/itarmyofukraine2022
 fucklist=(
+    # Food delivery
+    "eda.yandex.ru"
+    "213.180.204.4"
+    "www.delivery-club.ru"
+    "5.61.236.230"
+    "m-food.ru"
+    "109.71.14.75"
+    "sbermarket.ru"
+    "212.193.158.175"
+    "chibbis.ru"
+    "5.189.235.150"
+    "lavka.yandex"
+    "213.180.204.71"
     # E-sign 2
     "iecp.ru/ep/uc-list"
     "185.71.67.237"
