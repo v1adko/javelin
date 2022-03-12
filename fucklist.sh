@@ -1,5 +1,22 @@
 # Best update targets from https://t.me/itarmyofukraine2022
 fucklist=(
+    # News
+    "www.kp.ru"
+    "178.248.233.143"
+    "ria.ru"
+    "178.248.233.32"
+    "lenta.ru"
+    "178.248.235.122"
+    "www.mk.ru"
+    "82.202.190.254"
+    "rg.ru"
+    "194.190.37.226"
+    "www.gazeta.ru"
+    "178.248.238.17"
+    "aif.ru"
+    "186.2.163.44"
+    "tass.ru"
+    "185.71.67.4"
     # Food delivery
     "eda.yandex.ru"
     "213.180.204.4"
