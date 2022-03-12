@@ -1,5 +1,26 @@
 # Best update targets from https://t.me/itarmyofukraine2022
 fucklist=(
+    # Movie theathers
+    "mos-kino.ru"
+    "193.187.96.13"
+    "cinemastar.ru"
+    "95.131.30.226"
+    "kinoteatr.ru"
+    "91.208.42.10"
+    "karofilm.ru"
+    "82.142.162.147"
+    "kinosfera-imax.ru"
+    "79.143.30.47"
+    "kinomax.ru"
+    "84.201.150.151"
+    "romanov-cinema.ru"
+    "178.154.220.43"
+    "pioner-cinema.ru"
+    "195.24.68.19"
+    "premierzal.ru"
+    "5.181.252.248"
+    "www.mirage.ru"
+    "77.222.61.241"
     # News
     "www.kp.ru"
     "178.248.233.143"
