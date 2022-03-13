@@ -1,5 +1,17 @@
 # Best update targets from https://t.me/itarmyofukraine2022
 fucklist=(
+    # Tinkoff
+    "www.tinkoff.ru"
+    "178.248.236.218"
+    "92.223.84.84"
+    "91.194.226.50"
+    "78.46.94.184"
+    "46.4.106.111"
+    "91.194.226.32"
+    "auth.tcsbank.ru"
+    "91.194.226.22"
+    "91.194.226.15"
+    "91.194.226.6"
     # Movie theathers
     "mos-kino.ru"
     "193.187.96.13"
