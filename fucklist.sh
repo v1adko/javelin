@@ -1,5 +1,28 @@
 # Best update targets from https://t.me/itarmyofukraine2022
 fucklist=(
+    # Marketplaces
+    "etpgpb.ru"
+    "94.79.10.194"
+    "api.etpgpb.ru"
+    "87.245.170.26"
+    "etp.gpb.ru"
+    "94.79.10.194"
+    "passport.etpgpb.ru"
+    "94.79.10.114"
+    "gos.etpgpb.ru"
+    "91.225.24.41"
+    "inter-rao.etpgpb.ru"
+    "94.79.10.194"
+    "rosnedra.etpgpb.ru"
+    "94.79.10.194"
+    "gpn.etpgpb.ru"
+    "94.79.10.194"
+    "geh.etpgpb.ru"
+    "94.79.10.194"
+    "trade.etpgpb.ru"
+    "94.79.10.194"
+    "gb.etpgpb.ru"
+    "94.79.10.194"
     # Alternative payments
     "koronapay.com"
     "194.85.18.32"
