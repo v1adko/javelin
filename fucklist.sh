@@ -1,5 +1,10 @@
 # Best update targets from https://t.me/itarmyofukraine2022
 fucklist=(
+    # Alternative payments
+    "koronapay.com"
+    "194.85.18.32"
+    "api.koronapay.com"
+    "194.85.18.31"
     # Tinkoff
     "www.tinkoff.ru"
     "178.248.236.218"
