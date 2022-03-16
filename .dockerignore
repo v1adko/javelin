@@ -1,7 +1,7 @@
 wip
 *.md
 bombardier
-fuckputin-local.sh
+javelin-local.sh
 Dockerfile
 docker-compose.yml
 .gitignore

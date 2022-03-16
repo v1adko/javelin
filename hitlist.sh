@@ -1,5 +1,5 @@
 # Best update targets from https://t.me/itarmyofukraine2022
-fucklist=(
+hitlist=(
     # Marketplaces
     "etpgpb.ru"
     "94.79.10.194"

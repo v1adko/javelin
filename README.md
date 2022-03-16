@@ -1,6 +1,6 @@
-# fuckputin
+# Javelin 🚀
 
-🇺🇦 A DDoS helper tool to bring down enemy websites - based on [bombardier](https://github.com/codesenberg/bombardier) 🇺🇦
+🇺🇦 A DDoS helper tool to bring down enemy websites - based on [bombardier](https://github.com/codesenberg/bombardier) for long-term unsupervised execution 🇺🇦  
 
 ### [Інструкція українською](./README_UA.md)
 ### [Инструкция на русском](./README_RU.md)
@@ -13,16 +13,16 @@
 Automatic script performs the same command and loops through a list of hosts, so you can leave it unsupervised overnight or for long periods of time. It also automatically fetches updates to the list.
 
 ### Get the code
-- Clone the repo - `git clone https://github.com/v1adko/fuckputin.git`   
+- Clone the repo - `git clone https://github.com/v1adko/javelin.git`   
   or  
-[download a zip](https://github.com/v1adko/fuckputin/archive/refs/heads/master.zip) if git clone is taking too long
-- Change working directory - `cd ./fuckputin`
+[download a zip](https://github.com/v1adko/javelin/archive/refs/heads/master.zip) if git clone is taking too long
+- Change working directory - `cd ./javelin`
 - Optionally update [the targets](#targets)
 
 ### Targets
 
 Best update targets from [this telegram channel](https://t.me/itarmyofukraine2022)  
-Edit contents of the [./fucklist.sh](/fucklist.sh) file
+Edit contents of the [./hitlist.sh](/hitlist.sh) file
 
 ### Run in Docker
 
@@ -34,14 +34,14 @@ it should be faster
 - Optionally update [the targets](#targets)
 - `docker-compose up --build` (on some systems compose is not installed with docker)
    **or**
-- `docker build -t fuckputin .`
-- `docker run fuckputin`
+- `docker build -t javelin .`
+- `docker run javelin`
 
 ### Local
 
 - Install Go - [Instructions](https://go.dev/doc/install)
 - Install bombardier [by downloading a binary](https://github.com/codesenberg/bombardier/releases)
-- Run `./fuckputin-local.sh`
+- Run `./javelin-local.sh`
 
 ### Run
 

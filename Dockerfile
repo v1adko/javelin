@@ -10,4 +10,4 @@ RUN apt-get install curl -y
 
 COPY . .
 
-CMD ./fuckputin.sh
+CMD ./javelin.sh

@@ -1,7 +1,7 @@
 services:
-  fuckputin:
+  javelin:
     build: .
-    image: fuckputin
+    image: javelin
     # M1 Mac specific
     platform: linux/x86_64 
     # command: tail -f /dev/null
