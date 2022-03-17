@@ -1,5 +1,24 @@
 # Best update targets from https://t.me/itarmyofukraine2022
 hitlist=(
+    # News under Cloudflare
+    # topcor.ru
+    "5.8.79.230"
+    # ria.ru
+    "195.93.246.165"
+    # lenta.ru
+    "81.19.72.39"
+    # kp.ru
+    "95.163.95.9"
+    # iz.ru
+    "80.93.184.78"
+    # www.gazeta.ru
+    "81.19.72.3"
+    # tass.ru
+    "82.202.190.72"
+    # rg.ru
+    "194.190.37.226"
+    "194.190.37.228"
+    "194.190.37.234"
     # Marketplaces
     "etpgpb.ru"
     "94.79.10.194"
